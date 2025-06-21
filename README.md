@@ -8,5 +8,6 @@ I picked the question on whether or not it is rude to recline your seat on a pla
 I thought this dataset was somewhat surprising because a good number of people said that reclining was not rude at all. From my experiences on planes, people tend to look a bit disgruntled when the person in front of them reclines, so I was surprised by this response. 
 
 ### My chart:
-! [Chart on reclining seat in plan opinions] (https://www.datawrapper.de/_/7dCv7/)
+![Chart on reclining seat in plan opinions](https://www.datawrapper.de/_/7dCv7/)
+
 My bar chart describes how the majority of people aligned more closely with the opinion that reclining was not rude at all, followed by it being somewhat rude, and then very rude. This chart demonstrates that people tend to be more patient and understanding with reclining seats when it comes to proper flying etiquette. 
